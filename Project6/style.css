@@ -46,11 +46,11 @@ nav {
 	}	
 
 figure {
-	width:144px; height:153px; /* sizing of image box */
+	height:200px; /* sizing of image box */
 	margin:20px 20px;			/* space between boxes */
-	border:1px solid #666;		/* image border */
+	
 	position:relative; /* positioning context for popups */
-	float:left; /* makes images sit side by side */
+	
 	}
 img {display:block;}/* remove baseline spacing from under image */
 figcaption {
